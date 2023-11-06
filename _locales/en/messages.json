@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Stanford Autoplay",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "This is Stanford Autoplay. You should tell us what your extension does here.",
+        "description": "Description of what the extension does."
+    }
+}
